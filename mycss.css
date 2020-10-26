@@ -1,0 +1,6 @@
+books{color:white;background-color:gray;widthy:100%}
+heading{color:green;font-size:40px;background-color:powder blue;}
+heading,title,author,publicher,price{display:block}
+title{font-size:25px;font-weight:blod;}
+
+<?xml-stylesheet href="mycss.css"type="text/css"?>
